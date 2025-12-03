@@ -20,7 +20,7 @@ Engagement Analysis: Watch time by device and city tier
 Power Query: For data cleaning & transformation
 
 Excel: For early-stage data preparation
-<img width="1350" height="715" alt="Screenshot 2025-12-03 122048" src="https://github.com/user-attachments/assets/f6ba9315-03d0-4ca8-b559-742af80e1fe9" />
+
 
 MySQL: For deep-dive data analysis using SQL
 
@@ -56,6 +56,7 @@ Content Optimization: Align content offerings to serve a broader audience post-m
 
 Live Power BI Dashboard Link
 <img width="1356" height="745" alt="Screenshot 2025-12-03 122026" src="https://github.com/user-attachments/assets/6a2b5616-91ec-4ca0-8292-a0a9c5e3f5e6" />
+<img width="1350" height="715" alt="Screenshot 2025-12-03 122048" src="https://github.com/user-attachments/assets/f6ba9315-03d0-4ca8-b559-742af80e1fe9" />
 <img width="1350" height="715" alt="Screenshot 2025-12-03 122048" src="https://github.com/user-attachments/assets/f6ba9315-03d0-4ca8-b559-742af80e1fe9" />
 <img width="1342" height="751" alt="Screenshot 2025-12-03 122133" src="https://github.com/user-attachments/assets/787320d7-a2b2-4cfc-8af2-f933ca76621c" />
 <img width="<img width="1384" height="746" alt="Screenshot 2025-12-03 122223" src="https://github.com/user-attachments/assets/ae05cb8a-12d2-455d-a9b7-d85f6e7623bd" />
