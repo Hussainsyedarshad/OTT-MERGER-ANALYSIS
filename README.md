@@ -4,10 +4,12 @@ This project, part of Codebasics Resume Project Challenge #14, delivers a compre
 
 
 Objective
+
 To equip Lio’s executive team with actionable insights about both LioCinema and Jotstar by analyzing subscriber behavior, content dynamics, upgrade/downgrade patterns, and overall platform health. This empowers stakeholders to make data-backed decisions for optimizing post-merger strategies.
 
 
 Highlights
+
 🔶Subscriber & Revenue Overview: Combined user base of 228K, with active users accounting for 61% and a paid user share of 42%. Total revenue stands at ₹14M, reflecting a steady growth with an 18.07% monthly increase.
 
 🔶Subscription Trends & Dynamics: Analysis of monthly subscriber acquisition, upgrade/downgrade behavior, and retention vs churn rates. Notably, 80% of paid users come from LioCinema, showcasing its strong monetization strategy.
