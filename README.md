@@ -1,56 +1,23 @@
-🎥📊 Strategic Merger Insights in the OTT Domain
-This project was part of the Codebasics Resume Project Challenge #14 and focused on uncovering actionable insights to support a strategic merger between LioCinema and Jotstar, two leading Indian OTT platforms.
+Lio & Jotstar Merger Analysis
+This project, part of Codebasics Resume Project Challenge #14, delivers a comprehensive OTT merger analysis between LioCinema and Jotstar, two of India’s major players in the telecom and streaming space. The objective was to uncover platform-specific insights, user behavior patterns, and content performance trends to support a strategic merger decision, aiming to establish a unified platform that leads the Indian OTT landscape.
 
- 
-🚀 Project Objective
-Evaluate platform performance, user behavior, and content consumption patterns to help establish Lio-Jotstar as India's #1 OTT platform.
+Objective
+To equip Lio’s executive team with actionable insights about both LioCinema and Jotstar by analyzing subscriber behavior, content dynamics, upgrade/downgrade patterns, and overall platform health. This empowers stakeholders to make data-backed decisions for optimizing post-merger strategies.
 
+Highlights
+🔶Subscriber & Revenue Overview: Combined user base of 228K, with active users accounting for 61% and a paid user share of 42%. Total revenue stands at ₹14M, reflecting a steady growth with an 18.07% monthly increase.
+🔶Subscription Trends & Dynamics: Analysis of monthly subscriber acquisition, upgrade/downgrade behavior, and retention vs churn rates. Notably, 80% of paid users come from LioCinema, showcasing its strong monetization strategy.
+🔶Churn & Retention Metrics: LioCinema and Jotstar show strong retention rates of 88.6% and 93.9%, respectively, with visible churn drop-offs through content and pricing strategies.
+🔶Content Library Insights: A total of 3,610 content assets were analyzed, revealing dominance in movie and series formats, with average runtimes of 94.2 minutes. Genres like drama, action, and comedy drive the highest viewership.
+🔶User Engagement & Watch Time: Total watch time crossed 26.7M hours, with average watch time per user at 117.2 hours. Tier-1 cities and younger demographics (18-34) were key drivers of engagement, especially on mobile and smart TVs.
+🔶Upgrade & Downgrade Patterns: Deep dive into subscription transition patterns showed VIP plans having the highest ARPPU (₹261.8) but facing a steady drop in user share, prompting review of pricing and content bundling.
+🔶Device & Age-Wise Consumption Trends: Mobile remains the top device for content consumption. Viewership is highest among the 25–34 age group, while older segments show higher inactivity, guiding future targeting strategies.
+🔶Revenue Growth & Distribution: Jotstar leads in ARPPU (₹261.8) vs. LioCinema (₹92.6), though LioCinema leads in total active paid users. This contrast highlights opportunities in merging content strength with subscriber scale.
 
-
-🔍 Scope of Analysis
-
-Subscriber Trends: Growth patterns, inactivity rates, upgrades, and downgrades
-
-Content Insights: Language diversity, content type preferences
-
-Engagement Analysis: Watch time by device and city tier
-
-🛠 Tools & Technologies Used
-
-Power Query: For data cleaning & transformation
-
-Excel: For early-stage data preparation
-
-
-MySQL: For deep-dive data analysis using SQL
-
-Power BI: For building interactive dashboards & visualizations
-
-💡 Key Insights
-
-Subscriber Growth:
-
-LioCinema grew 5x in 2024, but 45% of its users are inactive
-
-Jotstar has 85% active paid users, despite a smaller base
-
-🌐 Content Diversity:
-
-Jotstar dominates with English/Hindi content for urban users
-
-LioCinema leads in regional content (Tamil, Telugu)
-
-💰 Revenue Trends:
-
-Jotstar earns 2x more revenue than LioCinema, but lacks growth momentum
-
-🌟 Strategic Takeaways
-
-Boost Engagement: Reactivate LioCinema's dormant users
-
-Monetization Strategy: Adapt Jotstar's success formula for paid plans
-
-Content Optimization: Align content offerings to serve a broader audience post-merger
+Conclusion
+This project enables Lio’s management to understand the unique strengths and growth levers of both platforms. .
+By providing deep insights into user behavior, content preferences, and financial performance, the analysis supports a smooth and profitable merger.
+It positions the future Lio-Jotstar platform to dominate the Indian OTT market with a strong foundation of strategic intelligence.
 
 🔗 Important Links
 
